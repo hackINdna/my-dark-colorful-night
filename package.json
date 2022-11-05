@@ -1,0 +1,21 @@
+{
+  "name": "hackingdna",
+  "displayName": "hackingdna",
+  "description": "new theme for day and night usage",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hackingdna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hackingdna-color-theme.json"
+      }
+    ]
+  }
+}
