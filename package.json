@@ -1,11 +1,25 @@
 {
-  "name": "hackingdna",
-  "displayName": "hackingdna",
+  "name": "my-dark-colorful-night",
+  "displayName": "My Dark Colorful Night",
   "description": "new theme for day and night usage",
   "version": "0.0.1",
+  "publisher": "hackingdna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackINdna/my-dark-colorful-night.git"
+  },
+  "keywords": [
+    "theme",
+    "dark night theme",
+    "purple orange theme",
+    "orange purple theme",
+    "my dark colorful night",
+    "dark night"
+  ],
   "engines": {
     "vscode": "^1.54.0"
   },
+  "icon": "aa.png",
   "categories": [
     "Themes"
   ],

@@ -10,7 +10,7 @@
     "activityBar.dropBorder": "#f39c12",
     "activityBar.foreground": "#f39c12",
     "activityBar.inactiveForeground": "#8a5809",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#f39c12",
     "activityBarBadge.foreground": "#15152b",
     "activityBar.activeBorder": "#f39c12",
     "activityBar.activeBackground": "#131327",
@@ -23,6 +23,15 @@
     "sideBarSectionHeader.foreground": "#99ace9",
     "sideBarTitle.foreground": "#f39c12",
     "sideBarSectionHeader.border": "#383e53",
+
+    // Status bar
+    "statusBar.background": "#181821",
+    "statusBar.foreground": "#f39c12",
+    "statusBar.border": "#2e4881",
+    "statusBar.focusBorder": "#2e4881",
+    "statusBar.debuggingBackground": "#181821",
+    "statusBar.debuggingForeground": "#99ace9",
+    "statusBar.debuggingBorder": "#2e4881",
 
     // Badge area
     "badge.background": "#2c2c3b",
