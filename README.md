@@ -4,10 +4,15 @@
 
 
 ![Dart View](theme.png?raw=true "Dart")
+
 ![html View](htmlTheme.png?raw=true "Html")
+
 ![JS View](jsxTheme.png?raw=true "JSX")
+
 ![SideBar View](sideTheme.png?raw=true)
+
 ![SideBar2 View](side2Theme.png?raw=true)
+
 ![Dropdowns View](orangeTheme.png?raw=true)
 
 
