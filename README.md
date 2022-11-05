@@ -18,5 +18,5 @@
 
 * Use 'Cascadia Code' Font with Font Ligatures enable.
 
-TRY IT!!
-You will definitely like this theme.
+**TRY IT!!**
+**You will definitely like this theme.**
